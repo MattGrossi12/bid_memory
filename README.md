@@ -5,7 +5,7 @@
 The link of EDA Playground project is here:
 https://edaplayground.com/x/Xygr
 
-![alt]([https://github.com/MattGrossi12/bid_memory/main/toplevel.png](https://github.com/MattGrossi12/bid_memory/blob/main/toplevel.png)
+![Top-view](https://github.com/MattGrossi12/bid_memory/blob/main/toplevel.png)
 
 If you've made it this far, I'm very grateful to you :)
 
